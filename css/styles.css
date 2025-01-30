@@ -255,13 +255,14 @@ ul {
   color: var(--colo-white-1);
   border-radius: 0.5rem;
   margin-left: -20px;
-  margin-top: -8px;
+  margin-top: -11px;
 }
 .card_top_icons {
   position: absolute;
   z-index: 9;
   top: 1rem;
   right: 1rem;
+  margin-left: -13px;
   
 }
 .card_top_icon {
@@ -270,8 +271,8 @@ ul {
   padding: 1rem;
   background-color: var(--colo-white-1);
   border-radius: 10rem;
-  margin-top: -15px;
-  margin-left: 1px;
+  margin-top: -30px;
+  margin-left: -13px;
 }
 .card_body {
   margin-top: 1rem;
